@@ -111,7 +111,7 @@ ul li:hover a
     
 }
 ul li:hover a::before {
-    background-color: #e66554;
+    background-color: #ff4a32;;
 }
 ul li:hover a::after {
     background-color: #b81500;
